@@ -86,8 +86,6 @@ GUI janela = new GUI(CaixaEletronico.class);
 janela.show();
 ```
 
-⚠️ A classe `GUI` não está incluída no projeto.
-
 ---
 
 ## ▶️ Como Executar
