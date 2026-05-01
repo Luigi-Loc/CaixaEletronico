@@ -1,9 +1,3 @@
-# CaixaEletronico
-
-Aqui está um README bem organizado para o seu projeto no GitHub, baseado no código que você enviou:
-
----
-
 # 💰 Caixa Eletrônico em Java
 
 Este projeto implementa um sistema simples de **Caixa Eletrônico (ATM)** em Java, capaz de gerenciar cédulas, realizar saques e controlar o saldo disponível.
@@ -37,10 +31,6 @@ O sistema utiliza uma abordagem simples:
 ### Classe Principal
 
 `CaixaEletronico`
-
-### Interface
-
-`ICaixaEletronico` (esperada, mas não incluída no código)
 
 ### Atributos
 
